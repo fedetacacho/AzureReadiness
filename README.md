@@ -103,6 +103,7 @@ Covers recent key news and an in-depth topic each week|
 
 | Topic | Reference |
 | --- | --- |
+|Optimizing performance and ROI with Azure Cosmos DB|https://github.com/ricmmartins/AzureReadiness/blob/master/AzureCosmosDB-onboarding-best-practices.PDF|
 |Dozen of Azure Guides|https://azurecitadel.github.io/guides/|
 |Understanding Azure: A guide for developers|http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf|
 |Get started guide for Azure IT operators - PDF Version|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf - Get started guide for Azure IT operators|
