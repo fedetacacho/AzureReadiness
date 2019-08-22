@@ -37,7 +37,7 @@ Feel free to contribute !
 |Azure Certification and Trainings|https://www.microsoft.com/en-us/learning/azure-training.aspx|
 |EDX|https://www.edx.org/course?search_query=Azure|
 |CloudAcademy|https://cloudacademy.com/library/?q=Azure|
-|Microsoft Virtual Academy (Azure Courses)]|https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033|
+|Microsoft Virtual Academy (Azure Courses)|https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033|
 |Microsoft Virtual Academy (Visual Studio Courses)|https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033|
 |Azure Courses on Cloud Academy|https://cloudacademy.com/library/?q=Azure|
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
@@ -50,7 +50,7 @@ Feel free to contribute !
 | Topic | Reference |
 | --- | --- |
 |Last week in Azure|https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/|
-|Azure Notes|https://azurenotes.tech/ - All Azure annoucements with links|
+|Azure Notes|https://azurenotes.tech/|
 |Azure Updates|https://azure.microsoft.com/en-gb/updates/|
 |The Azure Podcast|http://azpodcast.azurewebsites.net/|
 |Azure Friday|https://channel9.msdn.com/Shows/Azure-Friday|
@@ -103,7 +103,7 @@ Feel free to contribute !
 |Optimizing performance and ROI with Azure Cosmos DB|https://github.com/ricmmartins/AzureReadiness/blob/master/AzureCosmosDB-onboarding-best-practices.PDF|
 |Dozen of Azure Guides|https://azurecitadel.github.io/guides/|
 |Understanding Azure: A guide for developers|http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf|
-|Get started guide for Azure IT operators - PDF Version|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf - Get started guide for Azure IT operators|
+|Get started guide for Azure IT operators - PDF Version|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf|
 |Get started guide for Azure IT operators - Web Version|https://docs.microsoft.com/en-us/azure/guides/operations/azure-operations-guide|
 |Get started guide for Azure developers|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf|
 |Azure Onboarding Guide for IT Organizations|https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf|
@@ -113,8 +113,8 @@ Feel free to contribute !
 |Strategies to realizing Cost Savings in Azure|https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/|
 |Azure DevTest Labs Prescriptive Adoption Guidance|https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf|
 |k8s Best Practices|https://github.com/Azure/k8s-best-practices|
-|Best practices Using Azure Resource Manager Templates|https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/ - Best practices Using Azure Resource Manager Templates|
-|Azure Availability Zones Quick Tour and Guide|https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/ - Azure Availability Zones Quick Tour and Guide|
+|Best practices Using Azure Resource Manager Templates|https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/|
+|Azure Availability Zones Quick Tour and Guide|https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/|
 |Azure Stragedy and Implementation Guide|https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
 |Azure Virtual Data Center|https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf|
 |A Cloud for a Global Good|https://news.microsoft.com/cloudforgood/|
@@ -124,7 +124,7 @@ Feel free to contribute !
 |Enterprise Cloud Strategy|https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf|
 |Governance in Azure|https://docs.microsoft.com/en-us/azure/security/governance-in-azure|
 |Azure QuickStart Templates|https://github.com/Azure/azure-quickstart-templates|
-|Microsoft Tech Brazil|https://www.microsofttech.com.br/)|
+|Microsoft Tech Brazil|https://www.microsofttech.com.br/|
 |Azure Readiness Repo|https://github.com/Azure-Readiness|
 |Awesome Azure Advanced Analytics|https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics|
 |Resource Manager Template Reference|https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/|
@@ -139,7 +139,7 @@ Feel free to contribute !
 | Topic | Reference |
 | --- | --- |
 |Azure Power Lunch|http://azurepowerlunch.com/|
-|Microsoft Technical Events|https://www.microsoft.com/en-gb/developers/events/)|
+|Microsoft Technical Events|https://www.microsoft.com/en-gb/developers/events/|
 |Channel9|https://channel9.msdn.com/ |
 |Microsoft Mechanics|https://www.youtube.com/user/OfficeGarageSeries |
 |The complete guide to the Azure Essentials|https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh|
