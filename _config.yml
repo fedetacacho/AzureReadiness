@@ -8,9 +8,9 @@ exclude:
 header_pages:
   - index.html
 
-author: Microsoft Learning
-twitter_username: mslearning
-github_username:  MicrosoftLearning
+author: Ricardo Martins
+twitter_username: ricmmartins
+github_username:  ricmmartins
 
 plugins:
   - jekyll-sitemap
