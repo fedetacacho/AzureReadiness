@@ -1,6 +1,6 @@
 #theme: jekyll-theme-cayman
 
-remote_theme: MicrosoftLearning/Jekyll-Theme
+remote_theme: scotte/jekyll-clean
 exclude:
   - readme.md
   - .github/
