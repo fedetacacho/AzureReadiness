@@ -18,8 +18,8 @@ Feel free to contribute !
 
 ## Free training and courses
 
-| Topic | Reference |
-| --- | --- |
+| Topic|Reference|
+|---|---|
 |Microsoft Learning at Github|https://github.com/MicrosoftLearning|
 |Azure Free Trainings on Pluralsight|http://aka.ms/azure-pluralsight|
 |Azure Learning in Linkedin|https://www.linkedin.com/learning/search?keywords=Azure&u=3322o|
