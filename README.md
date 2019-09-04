@@ -7,7 +7,7 @@ Feel free to contribute !
 
 | Topic | Reference |
 | --- | --- |
-|Ignite 2018 |https://github.com/ricmmartins/AzureReadiness/blob/master/ignite2018.md|
+|Ignite 2018|https://github.com/ricmmartins/AzureReadiness/blob/master/ignite2018.md|
 
 ## Azure Certifications Free Training
 
