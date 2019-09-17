@@ -9,13 +9,6 @@ Feel free to contribute !
 | --- | --- |
 |Ignite 2018|https://github.com/ricmmartins/AzureReadiness/blob/master/ignite2018.md|
 
-## Azure Certifications Free Training
-
-|Topic|Reference|
-|---|---|
-|Azure Certifications|https://github.com/ricmmartins/AzureReadiness/blob/master/certifications.md|
-
-
 ## Free training and courses
 
 | Topic|Reference|
