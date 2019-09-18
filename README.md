@@ -3,38 +3,26 @@ The purpose of this repo is to serve as a curated list of readiness resources on
 
 Feel free to contribute !
 
-## Ignite 2018
-
-| Topic | Reference |
-| --- | --- |
-|Ignite 2018|https://github.com/ricmmartins/AzureReadiness/blob/master/ignite2018.md|
-
 ## Free training and courses
 
 | Topic|Reference|
 |---|---|
+|Microsoft Learn|https://docs.microsoft.com/en-us/learn/azure/|
 |Microsoft Learning at Github|https://github.com/MicrosoftLearning|
 |Azure Free Trainings on Pluralsight|http://aka.ms/azure-pluralsight|
-|Azure Learning in Linkedin|https://www.linkedin.com/learning/search?keywords=Azure&u=3322o|
-|Azure Free Trainings at Pluralsight|http://pluralsight.com/partners/microsoft/azure|
 |Microsoft Self Passed Labs|https://www.microsoft.com/handsonlabs/SelfPacedLabs|
 |Databricks Academy on Azure|https://academy.databricks.com|
 |Microsoft on EDX|https://www.edx.org/school/microsoft|
 |Azure Hands-on Labs|https://azure.microsoft.com/pt-br/training/hands-on-labs/)|
 |Microsoft Hands-on Labs|https://www.microsoft.com/handsonlabs|
-|Microsoft Self Passed Labs|https://www.microsoft.com/handsonlabs/SelfPacedLabs|
 |Learn Analytics|https://learnanalytics.microsoft.com/|
 |AI School|https://aischool.microsoft.com/|
-|Azure Learn|https://docs.microsoft.com/en-us/learn/azure/|
-|Azure Free Trainings at Pluralsight|http://pluralsight.com/partners/microsoft/azure|
 |Azure Certification and Trainings|https://www.microsoft.com/en-us/learning/azure-training.aspx|
 |EDX|https://www.edx.org/course?search_query=Azure|
 |CloudAcademy|https://cloudacademy.com/library/?q=Azure|
-|Microsoft Virtual Academy (Azure Courses)|https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033|
-|Microsoft Virtual Academy (Visual Studio Courses)|https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033|
 |Azure Courses on Cloud Academy|https://cloudacademy.com/library/?q=Azure|
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
-|Microsoft Learning on Github|https://github.com/MicrosoftLearning|
+
 
 
 
