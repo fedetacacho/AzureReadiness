@@ -22,6 +22,7 @@ Feel free to contribute !
 |CloudAcademy|https://cloudacademy.com/library/?q=Azure|
 |Azure Courses on Cloud Academy|https://cloudacademy.com/library/?q=Azure|
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
+|More Azure Learning Resources|http://aka.ms/morelearningresources |
 
 
 
