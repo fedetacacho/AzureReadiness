@@ -181,6 +181,7 @@ Feel free to contribute !
 
 | Topic | Reference |
 | --- | --- |
+|KQL Cheat Sheet|https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet_dark.pdf|
 |From Agile to DevOps at Microsoft Developer Division e-book|https://www.microsoft.com/en-us/download/details.aspx?id=46920|
 |Azure Stragedy and Implementation Guide|https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide|
 |Azure Virtual Data Center|https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf|
