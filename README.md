@@ -216,10 +216,3 @@ A list of usefull links explaining about the common doubts related to Azure Free
 |Awesome Azure|https://github.com/kristofferandreasen/awesome-azure|
 
 ---
-
-# Let's keep in touch
-
-| Name | Links |
-| ------ | ------ |
-| Ricardo Martins | [http://ricardomartins.com.br](http://www.ricardomartins.com.br) - [@ricmmartins](http://twitter.com/ricmmartins) |
-
